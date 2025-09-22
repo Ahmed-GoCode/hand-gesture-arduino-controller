@@ -1,0 +1,10 @@
+{
+    "serial_port": "COM3",
+    "baud_rate": 9600,
+    "camera_index": 0,
+    "window_name": "AK Hand Gesture Controller",
+    "min_detection_confidence": 0.5,
+    "min_tracking_confidence": 0.5,
+    "serial_timeout": 2,
+    "debug_mode": false
+}
